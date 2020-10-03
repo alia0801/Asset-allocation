@@ -1,5 +1,6 @@
 ## Asset allocation system v1 
-[Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
+
+本系統介面使用[Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)提供之模板，為使用者打造客製化資產配置系統。
 
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid, window modals for each portfolio item, and a working PHP contact form.
 
